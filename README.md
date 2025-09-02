@@ -1,8 +1,11 @@
 # Bright-Coffee
 Bright Coffee Sales Analysis – Methodology
+
 Prepared by: Onalenna Mogale
+
 Purpose: To outline the approach, objectives, and methodology
 used to generate insights presented to the CEO.
+
 1. Objectives of the Analysis
 - Revenue Analysis: Identify which product types and categories contribute most to overall sales
 revenue.
